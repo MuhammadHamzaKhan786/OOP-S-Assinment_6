@@ -47,6 +47,6 @@ Here’s a quick look at all the topics I’ve covered:
 You can clone this repo and test any file:
 
 ```bash
-git clone https://github.com/your-username/oop-assignments.git
+git clone (https://github.com/MuhammadHamzaKhan786/OOP-S-Assinment_6)
 cd oop-assignments
 python filename.py
